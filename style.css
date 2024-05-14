@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+main {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+article {
+    margin-bottom: 20px;
+    border: 2px dotted blue;
+    padding: 10px;
+}
+p {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+.gradient {
+    background-image: linear-gradient(to right, red, yellow);
+}
+.image-bg {
+    background-image: url('path-to-your-image.jpg');
+    background-size: cover;
+}
